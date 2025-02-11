@@ -1,5 +1,13 @@
 # Running the Project
 
+
+## Installation
+Before running the project, install the dependencies:
+
+```sh
+npm install
+```
+
 ## Android
 To run the project on Android, use the following command:
 
